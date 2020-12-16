@@ -1,0 +1,350 @@
+/* header starts */
+.header-new{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 30px 10px 30px 10px;
+}
+
+.six-degree-logo{
+    width: 150px;
+    height: auto;
+}
+.dropdown-item{
+    padding: 10px;
+}
+
+.subheading {
+    font-size: 15px;
+    font-weight: 500;
+    color: #193E6C;
+    margin-top: 8px;
+    font-family: 'sofia-pro';
+}
+
+.subheading-dropdown {
+    font-size: 15px;
+    font-weight: 500;
+    color: #193E6C;
+   }
+
+.honeycomb-link{
+    font-size: 14px;
+    font-weight: 500;
+    color: #193E6C;
+    font-family: 'sofia-pro';
+    padding: 20px 20px 20px 20px;
+
+}
+   
+.contact-us {
+    border: 2px solid #193E6C;
+    font-size: 14px;
+    font-weight: 500;
+    width: 110px;
+    height: 38px;
+    color: #193E6C;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    margin-right: 15px;
+    font-family: 'sofia-pro';
+    outline: 0 !important;
+}
+
+.shop-with-us {
+    background-color: #193E6C;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 500;
+    width: 110px;
+    height: 38px;
+    border-radius: 30px;
+    font-family: 'sofia-pro';
+    outline: 0 !important;
+}
+
+.shop-with-us:hover{
+    color: lightgray;
+
+}
+/* header ends */
+
+  .rectangle {
+    background-color: #FFF9EB;
+  }
+
+  .illustration{
+      height: 95vh;
+
+  }
+
+  .contact {
+    color: #193E6C;
+    font-size: 23px;
+    font-weight: 600;
+    margin-left: 170px;
+    margin-top: 100px;
+    font-family: 'sofia-pro';
+}
+
+.write {
+    color: #193E6C;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'sofia-pro';
+    margin-left: 173px;
+    width: 300px;
+}
+
+.email {
+    color: #193E6C;
+    font-size: 22px;
+    font-weight: 500;
+    font-family: 'sofia-pro';
+    margin-left: 173px;
+}
+
+
+/* footer starts from here */
+.footer {
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer-box{
+    display: flex; 
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.all-rights-reserved {
+    color: #193E6C;
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'sofia-pro';
+}
+
+.product {
+    color: #193E6C;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'sofia-pro';
+}
+
+.footer-label{
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    color: #193E6C;
+    font-weight: 300;
+    width: 200px;
+}
+
+.facebook {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+}
+
+.instagram {
+    width: 20px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+.twitter {
+    width: 20px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+.footer-degree-logo{
+    width: 150px;
+    height: auto;
+    margin-top: 50px;
+}
+
+/* footer ends here */
+
+
+
+
+/* iPads (landscape) ----------- */
+@media only screen and (max-width : 1224px) {
+
+    /* header starts */
+    .six-degree-logo{
+        width: 150px;
+        height: auto;
+    }
+    
+    /* header ends */
+}
+
+
+
+
+
+/* mobile view */
+@media only screen and (max-width: 768px) {
+
+    /* header starts */
+
+.header-new{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 30px 10px 30px 10px;
+}
+
+
+.six-degree-logo{
+    
+    width: 150px;
+    height: auto;
+
+}
+
+/* header ends */
+
+.contact {
+    color: #193E6C;
+    font-size: 23px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'sofia-pro';
+    margin-left: 0px;
+}
+
+.write {
+    color: #193E6C;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'sofia-pro';
+    text-align: center;
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.email {
+    color: #193E6C;
+    font-size: 22px;
+    font-weight: 500;
+    font-family: 'sofia-pro';
+    text-align: center;
+    margin-left: 0px;
+}
+
+/* footer starts from here */
+.footer-box{
+    padding: 0px 20px 0px 20px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+/* footer ends from here */
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 581px) {
+    /* header starts from here */
+    .contact-us {
+        font-size: 14px;
+        font-weight: 500;
+        width: 110px;
+        height: 38px;
+        color: #193E6C;
+        background-color: #FFFFFF;
+        border-radius: 30px;
+        margin-right: 15px;
+        font-family: 'sofia-pro';
+        outline: 0 !important;
+        margin-top: 25px;
+    }
+    
+    .shop-with-us {
+        background-color: #193E6C;
+        color: #FFFFFF;
+        font-size: 14px;
+        font-weight: 500;
+        width: 110px;
+        height: 38px;
+        border-radius: 30px;
+        font-family: 'sofia-pro';
+        outline: 0 !important;
+        margin-top: 25px;
+    }
+
+    /* header ends from here */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+  
+  .subheading {
+   font-size: 15px;
+   font-weight: 600;
+   color: #193E6C;
+   margin-top: 8px;
+  }
+  
+  
+  
+  .subheading-dropdown {
+   font-size: 15px;
+   font-weight: 600;
+   color: #193E6C;
+  }
+  
+  
+  
+  
+  
+
+
+
+.product {
+    color: #193E6C;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.honeycomb {
+    color: #193E6C;
+    font-size: 16px;
+} */

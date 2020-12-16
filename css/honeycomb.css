@@ -1,0 +1,806 @@
+.header{
+    padding: 5px 10px 30px 80px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .box div {
+    width: 500px;
+    height: 500px;
+  }
+       
+
+.logo{
+  width: 200px;
+}
+
+.panel-body {
+    color: #193E6C;
+    font-size: 18px;
+
+}
+
+ 
+.header-btn{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ 
+ .login-btn {
+     font-size: 14px;
+     font-family: 'sofia-pro';
+     font-weight: 500;
+     color: #193E6C;
+     background-color: #FFFFFF;
+     width: 120px;
+     height: 40px;
+     border-radius: 30px;
+     margin-left: 125px;
+     margin-right: 20px;
+     
+ }
+   
+ 
+ .shop-with-us {
+       background-color: #193E6C;
+       color: #FFFFFF;
+       font-size: 14px;
+       font-weight: 500;
+       width: 155px;
+       height: 40px;
+       border-radius: 30px;
+       text-align: center;
+       font-family: 'sofia-pro';
+       
+ }
+
+ .logo-aarambh {
+     margin-left: 0px;
+ }
+
+.rectangle-first {
+    background: url(../assets/line_mask.svg);
+    background-color: #FFF9EB;
+    width: 1450px;
+    height: 515px;
+  }
+
+  
+
+  .aarambh-image {
+      width: 620px;
+      height: 850px;
+  }
+
+  
+  
+.line-mask{
+    position: absolute;
+    width: auto;
+    height: 400px;
+    z-index: 0;
+    margin-top: 220px;
+}
+
+.grow-your {
+    color: #193E6C;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'sofia-pro';
+    padding-top: 100px;
+    padding-right: 40px;
+    z-index: 2;   
+}
+
+.grow-your-subheading {
+    color: #193E6C;
+    font-size: 15px;
+}
+
+
+
+.grow-your-aarambh {
+    color: #193E6C;
+    font-size: 100px;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'sofia-pro';
+    padding-top: 100px;
+    z-index: 2;  
+}
+
+.why {
+    color: #193E6C;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'sofia-pro';
+    margin-left: 50px;
+}
+
+.aarambh {
+    color: #193E6C;
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'sofia-pro';
+    margin-left: 50px;
+    
+}
+
+.create-your-account {
+    color: #193E6C;
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'sofia-pro';
+    margin-left: 40px;
+    
+}
+
+.upload {
+    color: #193E6C;
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'sofia-pro';
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.start-selling {
+    color: #193E6C;
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'sofia-pro';
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.image-1 {
+    padding-left: 75px;
+}
+
+.image-2 {
+    padding-left: 75px;
+}
+
+.image-3 {
+    padding-left: 75px;
+}
+
+.how-to-join {
+    color: #193E6C;
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'sofia-pro';
+    margin-left: 50px;
+}
+
+.aarambh-join {
+    color: #193E6C;
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'sofia-pro';
+    margin-left: 50px;
+}
+
+.register-with-us {    
+    background-color: #0074FF;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 30px;
+    border: none;
+    color: #FFFFFF;
+    font-family: 'sofia-pro';
+    width: 240px;
+    height: 54px;
+    margin-left: 162px;
+    z-index: 2;
+    outline: 0 !important;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+.track {
+    color: #193E6C;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 115px;
+}
+
+.track-subheading {
+    color: #193E6C;
+    font-size: 16px;
+    font-weight: 600;
+    width: 450px;
+    margin-bottom: 100px;
+}
+
+.product-image {
+    width: 600px;
+ }
+
+ .info-box-honeycomb {
+    display: flex; 
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 50px;
+  }
+    
+  .honey-is-here {
+    text-align: center;
+    color: #193E6C;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 50px;
+    font-family: 'sofia-pro';
+}
+
+.honey-is-here-subheading {
+    text-align: center;
+    color: #193E6C;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'sofia-pro';
+    margin-bottom: 50px;
+}
+
+
+
+.validate {
+    color: #193E6C;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 80px;
+    font-family: 'sofia-pro';
+    padding-right: 20px;
+}
+   
+ .validate-subheading {
+    color: #193E6C;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;  
+    font-family: 'sofia-pro'; 
+ }
+
+ .selling {
+     width: 420px;
+    height: 350px;
+    margin-left: 20px;
+}
+
+.topstyles {
+    width: 420px;
+    height: 350px;
+}
+
+.trendingcolour {
+    width: 420px;
+    height:350px;
+
+}
+.container-first {
+    margin-top: 120px;
+}
+
+.container-second {
+    margin-top: 50px;
+}
+
+.container-third {
+    margin-top: 50px;
+}
+
+ .platform {
+    font-family: 'sofia-pro';
+    font-size: 30px;
+    font-weight: 600;
+    color:  #193E6C;
+    margin-top: 80px;
+}
+
+.business-growth-heading {
+    margin-top: 40px;
+    font-size: 24px;
+    font-weight: 600;
+    color: #193E6C;
+    font-family: 'sofia-pro';
+  }
+
+.business-subheading {
+    color: #193E6C;
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'sofia-pro';
+    width: 230px;
+    text-align: center;
+}
+
+.business-growth-img{
+    width: 150px;
+    height: auto;
+}
+
+.brand-img{
+    height: 234px;
+    margin-top: -18px;
+}
+
+.rectangle-footer{
+    background: url(../assets/wave_mask.svg);
+    background-color: #FFF9EB;
+    width: 1440px;
+    height: 300px;
+    margin-top: 85px;
+}
+
+
+
+
+.honeycomb-img{
+    max-width: 800px;
+}
+
+.getting-started {
+    color: #193E6C;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 75px;
+    font-family: 'sofia-pro';
+    padding-top: 50px;
+    padding-right: 80px;
+}
+
+.the-time {
+    color: #193E6C;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 300;
+    font-family: 'sofia-pro';
+    padding-right: 85px;
+}
+
+.register-with-us-row{
+    margin-top: 20px;
+}
+
+.orders {
+    width: 600px;
+    height: auto;
+}
+
+.enroll-now {
+    margin-top: 20px;
+    margin-right: 88px;
+    margin-bottom: 150px;
+    width: 130px;
+    height: 45px;
+    background-color: #0074FF;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: 'sofia-pro';
+    font-weight: 500;
+    border-radius: 22px;
+    border: none;
+    outline: 0 !important;
+}
+
+.footer {
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer-box{
+    display: flex; 
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.all-rights-reserved {
+    color: #193E6C;
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'sofia-pro';
+}
+
+.product {
+    color: #193E6C;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'sofia-pro';
+}
+
+.footer-label{
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    color: #193E6C;
+    font-weight: 300;
+    width: 200px;
+}
+.facebook {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+}
+
+.instagram {
+    width: 20px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+.twitter {
+    width: 20px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+.footer-degree-logo{
+    width: 150px;
+    height: auto;
+    
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 1124px) {
+
+    .honeycomb-img {
+        max-width: 750px;
+    }
+
+    .inventory {
+        color: #193E6C;
+        font-size: 24px;
+        font-weight: 600;
+        margin-top: 0px;
+    }
+    
+    .track {
+        color: #193E6C;
+        font-size: 24px;
+        font-weight: 600;
+        margin-top: 0px;
+    }
+    
+}
+
+
+
+@media only screen and (max-width: 768px) {
+
+
+    
+    
+    
+.grow-your {
+    color: #193E6C;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'sofia-pro';
+    padding-top: 100px;
+    z-index: 2;   
+}
+
+.trusted-and-lovely {
+    margin-top: 20px;
+    color: #3C3C3C;
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.line-mask{
+    visibility: hidden;
+    position: absolute;
+    width: auto;
+    height: 400px;
+    z-index: 0;
+    margin-top: 220px;
+}
+
+.arrow {
+    width: 80px;
+    z-index: 0;
+    
+}
+
+.register-with-us {    
+    background-color: #0074FF;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 30px;
+    border: none;
+    color: #FFFFFF;
+    font-family: 'sofia-pro';
+    width: 150px;
+    height: 40px;
+    margin-right: 105px;
+    margin-left: 25px;
+    z-index: 2;
+    outline: 0 !important;
+}
+
+.info-box-honeycomb {
+    display: flex; 
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 25px;
+}
+
+.platform {
+    font-family: 'sofia-pro';
+    font-size: 24px;
+    font-weight: 600;
+    color:  #193E6C;
+    margin-top: 50px;
+}
+
+.honeycomb-img {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+
+.selling {
+    height: auto;
+    width: 100%;
+    padding: 20px;
+}
+
+.get-started {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    color: #193E6C;
+    margin-top: 50px;
+    font-family: 'sofia-pro';
+}
+
+.get-started-subheading {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    color: #193E6C;
+    font-family: 'sofia-pro';
+}
+
+.inventory {
+    color: #193E6C;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 50px;
+}
+
+.inventory-subheading {
+    color: #193E6C;
+    font-size: 16px;
+    font-weight: 600;
+    width: 300px;
+    margin-bottom: 25px;
+}
+
+.track {
+    color: #193E6C;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 0px;
+}
+
+.track-subheading {
+    color: #193E6C;
+    font-size: 16px;
+    font-weight: 600;
+    width: 300px;
+    margin-bottom: 25px;
+}
+
+.honey-is-here {
+    text-align: center;
+    color: #193E6C;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 50px;
+    font-family: 'sofia-pro';
+}
+
+.honey-is-here-subheading {
+    text-align: center;
+    color: #193E6C;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'sofia-pro';
+    margin-bottom: 25px;
+    width: auto;
+    padding: 0px 20px 0px 20px;
+}
+
+
+.validate {
+    color: #193E6C;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 80px;
+    font-family: 'sofia-pro';
+}
+   
+ .validate-subheading {
+    color: #193E6C;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;  
+    font-family: 'sofia-pro'; 
+    width: auto;
+    padding: 10px;
+ }
+
+ .getting-started {
+    color: #193E6C;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'sofia-pro';
+    padding-top: 50px;
+}
+
+.enroll-now {
+    margin-top: 10px;
+    margin-bottom: 100px;
+    width: 130px;
+    height: 45px;
+    background-color: #0074FF;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: 'sofia-pro';
+    font-weight: 500;
+    border-radius: 22px;
+    border: none;
+    outline: 0 !important;
+}
+/* footer starts from here */
+.footer-box{
+    padding: 0px 20px 0px 20px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+/* footer ends from here */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* Old Css
+
+
+.header-btn{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ 
+ .login-btn {
+     font-size: 14px;
+     font-family: 'sofia-pro';
+     font-weight: 500;
+     color: #193E6C;
+     background-color: #FFFFFF;
+     width: 120px;
+     height: 40px;
+     border-radius: 30px;
+     margin-right: 25px;  
+ }
+   
+ 
+ .shop-with-us {
+       background-color: #193E6C;
+       color: #FFFFFF;
+       font-size: 14px;
+       font-weight: 500;
+       width: 120px;
+       height: 40px;
+       border-radius: 30px;
+       text-align: center;
+       font-family: 'sofia-pro';
+ }
+ 
+   .honeycomb-subheading {
+       text-align: center;
+       color: #193E6C;
+       font-size: 14px;
+       font-weight: 500;
+       font-family: 'sofia-pro';
+   }
+
+ 
+   .tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+  }
+  
+  
+  .tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  
+  .tab button:hover {
+    background-color: #ddd;
+  }
+  
+  
+  .tab button.active {
+    background-color: #ccc;
+  }
+  
+  
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+  }
+
+
+
+ a:link, a:visited {
+    
+    color:#193E6C;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-weight: 500;
+    font-family: 'Sofia-Pro-Light';
+  }
+  
+   */

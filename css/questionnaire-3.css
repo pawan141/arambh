@@ -1,0 +1,356 @@
+.gender {
+    color: #193E6C;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 67px;
+    margin-top: 25px;
+    font-family: 'sofia-pro';
+  }
+  
+  .radio-tab{
+    margin-left: 67px;
+    background-color: white;
+    padding: 8px 5px 5px 15px;
+    width: 150px;
+  }
+  
+  .label{
+    color: #193E6C;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 10px;
+    font-family: 'sofia-pro';
+  }
+  
+  .range {
+    color: #193E6C;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 67px;
+    margin-top: 5px;
+    font-family: 'sofia-pro';
+  }
+  
+  
+  .degree-seller-image {
+    margin-top: 70px;
+    width: 150px;
+    height: auto;
+  }
+  
+  .slider{
+    margin-left: 67px;
+    width: 300px;
+  }
+  
+  .fashion-wings {
+    color: #193E6C;
+    font-size: 40px;
+    margin-left: 67px;
+    margin-top: 35px;
+    margin-right: 90px;
+    font-weight: 600;
+    font-family: 'sofia-pro';
+  }
+  
+  .fashion-wings-subheading {
+    color: #193E6C;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'sofia-pro';
+    text-align: left;
+    margin-left: 70px;
+  }
+  
+  .square {
+    background: url(../assets/MaskGroup.svg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 100vh;
+    background-color: #FFF9EB;
+  }
+  
+  
+  .arrow {
+    margin-top: 72px;
+    margin-left: 75px;
+    color: #193E6C;
+  }
+  
+  
+  .step {
+    color: #193E6C;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'sofia-pro';
+    margin-left: 15px;
+    margin-top: 75px;
+  }
+  
+  .brand-name {
+    color: #193E6C;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'sofia-pro';
+    margin-left: 60px;
+    margin-top: 47px;
+  }
+  
+  .textbox {
+    margin-left: 62px;
+    width: 340px;
+    height: 45px;
+    color: #2A2A2D;
+    font-family: 'sofia-pro';
+    border: none;
+    font-size: 24px;
+    font-weight: 400;
+    background-color: inherit;
+  }
+  
+  .social-media-links {
+    color: #193E6C;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-left: 65px;
+    font-family: 'sofia-pro';
+  }
+  
+  
+  
+  .paste-link {
+    width: 140px;
+    height: 45px;
+    margin-left: -66px;
+    border: none;
+    background-color: inherit;
+    
+  }
+  
+  
+  .or-press-enter {
+    
+    color: #193E6C;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'sofia-pro';
+    margin-top: 29px;
+    margin-left: 20px;
+  }
+  
+  .next {
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #193E6C;
+    color: #FFFFFF;
+    border: none;
+    width: 140px;
+    height: 48px;
+    border-radius: 30px;
+    margin-left: 58px;
+    margin-top: 22px;
+    margin-bottom: 20px;
+    font-family: 'sofia-pro';
+    outline: 0 !important;
+  }
+  
+  
+  
+  .dropdown-year{
+    width: 250px;
+    height: 35px;
+    margin-left: 67px;
+    border: none;
+    outline: 0 !important;
+    margin-bottom: 25px;
+  }
+
+  .mobile{
+    margin-left: 67px;
+    outline: none;
+    border: none;
+  }
+
+
+
+  
+/* mobile view */
+@media only screen and (max-width: 768px) {
+
+  .gender {
+    color: #193E6C;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 67px;
+    margin-top: 25px;
+    font-family: 'sofia-pro';
+  }
+  
+  .radio-tab{
+    margin-left: 67px;
+    background-color: white;
+    padding: 8px 5px 5px 15px;
+    width: 150px;
+  }
+  
+  .label{
+    color: #193E6C;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 10px;
+    font-family: 'sofia-pro';
+  }
+  
+  .range {
+    color: #193E6C;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: 'sofia-pro';
+  }
+  
+  
+  .degree-seller-image {
+    margin-top: 70px;
+  }
+  
+  .slider{
+    margin-left: 10px;
+    width: 250px;
+  }
+  
+  .fashion-wings {
+    color: #193E6C;
+    font-size: 40px;
+    margin-left: 0px;
+    margin-top: 35px;
+    margin-right: 0px;
+    font-weight: 600;
+    font-family: 'sofia-pro';
+    text-align: center;
+  }
+  
+  .fashion-wings-subheading {
+    color: #193E6C;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'sofia-pro';
+    text-align: center;
+    margin-left: 0px;
+  }
+  
+  .square {
+    height: 100vh;
+    background-color: #FFF9EB;
+  }
+  
+  
+  .arrow {
+    margin-top: 72px;
+    margin-left: 75px;
+    color: #193E6C;
+  }
+  
+  
+  .step {
+    color: #193E6C;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'sofia-pro';
+    margin-left: 15px;
+    margin-top: 75px;
+  }
+  
+  .brand-name {
+    color: #193E6C;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'sofia-pro';
+    margin-left: 10px;
+    margin-top: 47px;
+  }
+  
+  .textbox {
+    margin-left: 62px;
+    width: 340px;
+    height: 45px;
+    color: #2A2A2D;
+    font-family: 'sofia-pro';
+    border: none;
+    font-size: 24px;
+    font-weight: 400;
+    background-color: inherit;
+  }
+  
+  .social-media-links {
+    color: #193E6C;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-left: 65px;
+    font-family: 'sofia-pro';
+  }
+  
+  
+  
+  .paste-link {
+    width: 140px;
+    height: 45px;
+    margin-left: -66px;
+    border: none;
+    background-color: inherit;
+    
+  }
+  
+  .or-press-enter {
+    color: #193E6C;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'sofia-pro';
+    margin-top: 29px;
+    margin-left: 0px;
+    margin-bottom: 50px;
+  }
+
+  .next {
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #193E6C;
+    color: #FFFFFF;
+    border: none;
+    width: 120px;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-top: 22px;
+    font-family: 'sofia-pro';
+    outline: 0 !important;
+    margin-bottom: 20px;
+    margin-bottom: 50px;
+  }
+  
+  .dropdown-year{
+    width: 250px;
+    height: 35px;
+    margin-left: 67px;
+    border: none;
+    outline: 0 !important;
+    margin-bottom: 25px;
+  }
+
+  .mobile{
+    margin-left: 0px;
+    width: 150px;
+    outline: none;
+    border: none;
+  }
+
+
+
+}

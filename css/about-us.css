@@ -1,0 +1,529 @@
+/* header starts */
+.header-new{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 30px 10px 30px 10px;
+}
+
+.six-degree-logo{
+    width: 150px;
+    height: auto;
+}
+
+.dropdown-item{
+    padding: 10px;
+}
+
+.subheading {
+    font-size: 15px;
+    font-weight: 500;
+    color: #193E6C;
+    margin-top: 8px;
+    font-family: 'sofia-pro';
+}
+
+.subheading-dropdown {
+    font-size: 15px;
+    font-weight: 500;
+    color: #193E6C;
+   }
+
+.honeycomb-link{
+    font-size: 14px;
+    font-weight: 500;
+    color: #193E6C;
+    font-family: 'sofia-pro';
+    padding: 20px 20px 20px 20px;
+
+}
+   
+.contact-us {
+    border: 2px solid #193E6C;
+    font-size: 14px;
+    font-weight: 500;
+    width: 110px;
+    height: 38px;
+    color: #193E6C;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    margin-right: 15px;
+    font-family: 'sofia-pro';
+    outline: 0 !important;
+}
+
+.shop-with-us {
+    background-color: #193E6C;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 500;
+    width: 110px;
+    height: 38px;
+    border-radius: 30px;
+    font-family: 'sofia-pro';
+    outline: 0 !important;
+}
+
+.shop-with-us:hover{
+    color: lightgray;
+
+}
+/* header ends */
+
+
+
+
+  .quotation-marks {
+    width: 20px;
+    height: 20px;
+    margin-top: 35px;
+  }
+
+ .about-us {
+    color: #193E6C;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+    margin-top: 30px;
+    font-family: 'sofia-pro';
+  }
+
+ .fashion {
+    color: #193E6C;
+    font-size: 44px;
+    font-weight: 700;
+    font-family: 'sofia-pro'; 
+    margin-bottom: 50px;
+ }
+
+.image-office-1{
+     height: 300px;
+ }
+
+ 
+.degree-seperation {
+    color: #193E6C;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 120px;
+    font-family: 'sofia-pro';
+}
+
+.seperation-subheading {
+    color: #193E6C;
+    font-size: 16px;
+    font-family: 'sofia-pro';
+    padding-bottom: 100px;
+    width: 700px;
+}
+
+
+
+.rectangle {
+    background-color: #FFF9EB;
+    padding-top: 70px;
+    margin-top: 100px;
+    padding-bottom: 70px;
+}
+
+
+.subheading-2 {
+    color: #193E6C;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'sofia-pro';
+}
+
+  
+.ceo{
+    margin-right: 10px;
+    width: 150px;
+}
+
+.name {
+    color: #193E6C;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'sofia-pro';
+}
+
+.name-heading {
+    color: #193E6C;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'sofia-pro';
+}
+
+.square {
+    background-color: #FFDFD4;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .vogue {
+    color: #193E6C;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 50px;
+    margin-top: 35px;
+    font-family: 'sofia-pro';
+  }
+
+.read-article {
+    color: #0074FF;
+    border-radius: 1px;
+    width: 190px;
+    height: 45px;
+    border: none;
+    background-color: pink;
+    margin-top: 15px;
+    font-family: 'sofia-pro';
+      
+}
+
+.story-heading {
+    color: #193E6C;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 50px;
+    font-family: 'sofia-pro';
+}
+
+.your-story {
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+/* footer starts from here */
+.footer {
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer-box{
+    display: flex; 
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.all-rights-reserved {
+    color: #193E6C;
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'sofia-pro';
+}
+
+.product {
+    color: #193E6C;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'sofia-pro';
+}
+
+.footer-label{
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    color: #193E6C;
+    font-weight: 300;
+    width: 200px;
+}
+
+.facebook {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+}
+
+.instagram {
+    width: 20px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+.twitter {
+    width: 20px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+.footer-degree-logo{
+    width: 150px;
+    height: auto;
+    margin-top: 50px;
+}
+
+/* footer ends here */
+
+
+
+
+
+
+
+
+/* iPads (landscape) ----------- */
+@media only screen and (max-width : 1224px) {
+
+    /* header starts */
+    .six-degree-logo{
+        width: 150px;
+        height: auto;
+    }
+    
+    /* header ends */
+
+}
+
+
+
+/* mobile view */
+@media only screen and (max-width: 768px) {
+
+    /* header starts */
+
+.header-new{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 30px 10px 30px 10px;
+}
+
+
+.six-degree-logo{
+    
+    width: 150px;
+    height: auto;
+
+}
+
+/* header ends */
+
+
+/* footer starts from here */
+.footer-box{
+    padding: 0px 20px 0px 20px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+/* footer ends from here */
+
+}
+
+@media only screen and (max-width: 581px) {
+    /* header starts from here */
+    .contact-us {
+        font-size: 14px;
+        font-weight: 500;
+        width: 110px;
+        height: 38px;
+        color: #193E6C;
+        background-color: #FFFFFF;
+        border-radius: 30px;
+        margin-right: 15px;
+        font-family: 'sofia-pro';
+        outline: 0 !important;
+        margin-top: 25px;
+    }
+    
+    .shop-with-us {
+        background-color: #193E6C;
+        color: #FFFFFF;
+        font-size: 14px;
+        font-weight: 500;
+        width: 110px;
+        height: 38px;
+        border-radius: 30px;
+        font-family: 'sofia-pro';
+        outline: 0 !important;
+        margin-top: 25px;
+    }
+
+    /* header ends from here */
+}
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.about-us {
+    font-size: 18px;
+    font-weight: 500;
+    color: #193E6C;
+    
+    }
+    
+    .teams {
+    font-size: 18px;
+    font-weight: 500;
+    color: #193E6C;
+    
+    }
+    
+   
+    
+
+
+    .image-4 {
+        width: 180px;
+        height: 210px;
+    }
+
+    .image-5 {
+        width: 800px;
+        height: 210px;
+        margin-left: 10px;
+    }
+
+    .image-6 {
+        width: 200px;
+        height: 210px;
+        margin-left: 80px;
+    }
+
+    .img-7 {
+        width: 200px;
+        height: 210px;
+        margin-top: 30px;
+    }
+
+    .img-8 {
+        width: 875px;
+        height: 210px;
+        margin-top: 30px;
+    }
+
+    .img-9 {
+        width: 155px;
+        height: 210px;
+        margin-top: 30px;
+        padding-right: 9px;
+        margin-left: 100px;
+    }
+
+
+      .wave {
+          width: 300px;
+          height: 300px;
+
+      }
+
+      .dot {
+        height: 10px;
+        width: 10px;
+        background-color: #FBC458;
+        border-radius: 50%;
+        display: inline-block;
+      }
+      
+      .year {
+          color: #193E6C;
+          font-size: 15px;
+          font-weight: 600;
+          margin-left: 50px;
+      }
+
+      .year-heading {
+          color: #193E6C;
+          font-size: 10px;
+          font-weight: 400;
+          margin-left: 50px;
+      }
+
+      .studio {
+          margin-left: 40px;
+      }
+
+      .person {
+          color: #193E6C;
+          font-size: 28px;
+          font-weight: 700;
+          margin-left: 505px;
+          margin-top: 50px;
+      }
+
+     
+    .investor {
+        color: #3C3C3C;
+        font-size: 30px;
+        font-weight: 700;
+        font-family: 'sofia-pro';
+        margin-top: 100px;
+        
+    }
+
+    .investor-heading {
+        color: #3C3C3C;
+        font-size: 14px;
+        font-weight: 300;
+        font-family: 'sofia-pro';
+        margin-bottom: 75px;
+        
+    }
+
+    .investor-logo{
+        height: 80px
+    } 
+
+      
+      .instagram {
+        width: 20px;
+        height: 20px;
+        margin-left: 20px;
+    }
+
+    .twitter {
+        width: 20px;
+        height: 20px;
+        margin-left: 20px;
+    }
+
+    .facebook {
+        margin-left: 10px;
+    }

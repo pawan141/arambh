@@ -1,0 +1,440 @@
+.header-new{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 30px 10px 30px 10px;
+}
+
+.subheading {
+    font-size: 15px;
+    font-weight: 500;
+    color: #193E6C;
+    margin-top: 8px;
+    font-family: 'sofia-pro';
+}
+
+.subheading-dropdown {
+    font-size: 15px;
+    font-weight: 500;
+    color: #193E6C;
+   }
+   
+.contact-us {
+    font-size: 14px;
+    font-weight: 500;
+    width: 110px;
+    height: 38px;
+    color: #193E6C;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    margin-right: 15px;
+    font-family: 'sofia-pro';
+    outline: 0 !important;
+}
+
+.shop-with-us {
+    background-color: #193E6C;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 500;
+    width: 110px;
+    height: 38px;
+    border-radius: 30px;
+    font-family: 'sofia-pro';
+    outline: 0 !important;
+}
+
+
+  .box-space {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .rectangle {
+    background-color: #FFF9EB;
+  }
+
+  .meet-the-team {
+    font-size: 44px;
+    font-weight: 600;
+    color: #193E6C;
+    font-family: 'sofia-pro';
+    margin: 50px 0px 50px 140px;
+  }
+
+  .img-1 {
+    height: 250px;
+  }
+
+  .img-2 {
+    height: 250px;
+  }
+
+  .img-3 {
+    height: 250px;
+  }
+
+  .rectangle-back {
+    background-color: #FFF9EB;
+  }
+
+  .team {
+    font-size: 32px;
+    color: #193E6C;
+    font-weight: 700;
+    margin: 150px 0px 50px 140px;
+  }
+
+  
+  .plus {
+    margin-left: 0px;
+  }
+
+  .key {
+    margin-left: 0px;
+  }
+
+
+  .positive {
+    color: #193E6C;
+    font-size: 23px;
+    font-weight: 600;
+    font-family: 'sofia-pro';
+  }
+
+ .choose-positive {
+    color: #193E6C;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'sofia-pro';
+    width: 250px;
+ }
+
+
+ .heading-2 {
+    margin-top: 120px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #193E6C;
+}
+
+.numbers {
+    font-size: 30px;
+    font-weight: 700;
+    color: #193E6C;
+    margin-top: 25px;
+}
+
+.subheading-3 {
+    font-size: 14px;
+    font-weight: 500;
+    color: #193E6C;
+    font-family: 'sofia-pro';
+}
+
+.smile {
+    width: 40px;
+}
+
+
+.rectangle-footer{
+    background: url(../assets/wave_mask.svg);
+    background-color: #FFF9EB;
+}
+
+
+.getting-started {
+    color: #193E6C;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 150px;
+    font-family: 'sofia-pro';
+    padding-top: 50px;
+}
+
+.the-time {
+    color: #193E6C;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 300;
+    font-family: 'sofia-pro';
+}
+
+.enroll-now {
+    margin-top: 20px;
+    margin-bottom: 150px;
+    width: 130px;
+    height: 45px;
+    background-color: #0074FF;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: 'sofia-pro';
+    font-weight: 500;
+    border-radius: 22px;
+    border: none;
+    outline: 0 !important;
+}
+
+.footer {
+    background-color: #FFFFFF;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.all-rights-reserved {
+    color: #193E6C;
+    font: 14px;
+    font-weight: 400;
+    font-family: 'sofia-pro';
+}
+
+.product {
+    color: #193E6C;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'sofia-pro';
+}
+
+.footer-label{
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    color: #193E6C;
+    font-weight: 300;
+}
+
+.facebook {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+}
+
+.instagram {
+    width: 20px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+.twitter {
+    width: 20px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.about-us {
+    font-size: 18px;
+    font-weight: 500;
+    color: #193E6C;
+    
+    }
+    
+    
+    
+    
+    
+    
+    .contact-us {
+        font-size: 18px;
+        font-weight: 500;
+        width: 140px;
+        height: 40px;
+        color: #193E6C;
+        background-color: #FFFFFF;
+        border-radius: 30px;
+        text-align: center;
+        
+        
+    
+    }
+    
+    .shop-with-us {
+        background-color: #193E6C;
+        color: #FFFFFF;
+        font-size: 18px;
+        font-weight: 500;
+        width: 140px;
+        height: 40px;
+        border-radius: 30px;
+        text-align: center;
+    }
+    
+    .degree-img {
+        margin-left: 20px;
+    }
+    
+    
+
+    
+
+    .img-wave {
+        width: 670px;
+        height: 260px;
+    }
+
+    
+
+    .great-perks {
+        color: #193E6C;
+        font-size: 30px;
+        font-weight: 700;
+        margin-left: 360px;
+        margin-top: 30px;
+    }
+
+    .perks-great {
+        color:  #193E6C;
+        font-size: 18px;
+        font-weight: 400;
+        margin-left: 20px;
+        margin-left: 225px;
+    }
+
+    .rectangle {
+        height: 200px;
+        width: 1108px;
+        background-color: #555;
+        background-color: #FFF2D7;
+        margin-top: 50px;
+        border-radius: 20px;
+      }
+
+      .enroll-now {
+          width: 200px;
+          height: 40px;
+          background-color: #0074FF;
+          color: #FFFFFF;
+          font-size: 20px;
+          font-weight: 600;
+          border-radius: 20px;
+          border: none;
+          margin-left: 410px;
+      }
+
+      .join-us {
+          font-size: 30px;
+          font-weight: 700;
+          color: #193E6C;
+          margin-left: 350px;
+      }
+
+      .dolor {
+          font-size: 16px;
+          font-weight: 500;
+          color: #193E6C;
+          margin-left: 395px;
+      }
+
+      .instagram {
+          width: 20px;
+          height: 20px;
+          margin-left: 20px;
+      }
+
+      .twitter {
+          width: 20px;
+          height: 20px;
+          margin-left: 20px;
+      }
+
+      .facebook {
+          margin-left: 10px;
+      }
+
+      .all-rights {
+          color: #193E6C;
+          font-size: 18px;
+          font-weight: 500;
+      }
+
+      .product {
+          color: #193E6C;
+          font-size: 20px;
+          font-weight: 500;
+      }
+
+      .honeycomb {
+          color: #193E6C;
+          font-size: 16px;
+      } */

@@ -1,0 +1,895 @@
+/* header starts */
+.header-new{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 30px 10px 30px 10px;
+}
+
+.six-degree-logo{
+    width: 150px;
+    height: auto;
+}
+
+.dropdown-item{
+    padding: 10px;
+}
+
+.subheading {
+    font-size: 15px;
+    font-weight: 500;
+    color: #193E6C;
+    margin-top: 8px;
+    font-family: 'sofia-pro';
+}
+
+.subheading-dropdown {
+    font-size: 15px;
+    font-weight: 500;
+    color: #193E6C;
+   }
+
+.honeycomb-link{
+    font-size: 14px;
+    font-weight: 500;
+    color: #193E6C;
+    font-family: 'sofia-pro';
+    padding: 20px 20px 20px 20px;
+
+}
+   
+.contact-us {
+    border: 2px solid #193E6C;
+    font-size: 14px;
+    font-weight: 500;
+    width: 110px;
+    height: 38px;
+    color: #193E6C;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    margin-right: 15px;
+    font-family: 'sofia-pro';
+    outline: 0 !important;
+}
+
+.shop-with-us {
+    background-color: #193E6C;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 500;
+    width: 110px;
+    height: 38px;
+    border-radius: 30px;
+    font-family: 'sofia-pro';
+    outline: 0 !important;
+}
+
+.shop-with-us:hover{
+    color: lightgray;
+
+}
+/* header ends */
+
+
+  .rectangle1 {
+    background: url(../assets/wave1_bkgoverlay.svg);
+    background-color: #FFF9EB;
+    background-repeat: no-repeat;
+    
+  }
+  
+  .enabling {
+    color: #193E6C;
+    font-size: 52px;
+    font-weight: 600;
+    font-family: 'sofia-pro';
+    width: 500px;
+    text-align: left;
+    padding-top: 90px;
+  }
+
+  .hero{
+     height: 600px;
+     padding-top: 25px;     
+  }
+  
+  
+  .register-with-us {    
+      background-color: #0074FF;
+      font-size: 18px;
+      font-weight: 400;
+      border-radius: 30px;
+      border: none;
+      color: #FFFFFF;
+      font-family: 'sofia-pro';
+      width: 240px;
+      height: 54px;
+      outline: 0 !important;
+  }
+  
+  .arrow {
+      width: 100px;
+      z-index: 2;
+  }
+
+  .get-exclusive{
+      font-family: 'sofia-pro';
+      font-size: 12px;
+      margin-top: 10px;
+      font-weight: 400;
+  }
+  
+  .trusted-and-lovely {
+      margin-top: 20px;
+      color: #3C3C3C;
+      font-family: 'sofia-pro';
+      font-size: 18px;
+      margin-top: 60px;
+      margin-bottom: 60px;
+  }
+  
+  
+  .gaurang {  
+      padding-bottom: 60px;
+      max-width: 120px;
+  }
+  
+  .anjul { 
+      padding-bottom: 60px;
+      max-width: 200px;
+  }
+  
+  .kaveri {
+      padding-bottom: 60px;
+      max-width: 120px;
+  }
+  
+  .sidbansal {
+      padding-bottom: 60px;
+      max-width: 200px;
+  }
+  
+  .empowering-img{
+    width: auto;
+    height: 300px
+  }
+
+.rectangle-footer{
+    background: url(../assets/wave_mask.svg);
+    background-color: #FFF9EB;
+}
+
+
+.getting-started {
+    color: #193E6C;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'sofia-pro';
+    padding-top: 50px;
+}
+
+.the-time {
+    color: #193E6C;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 300;
+    font-family: 'sofia-pro';
+}
+
+.enroll-now {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 130px;
+    height: 45px;
+    background-color: #0074FF;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: 'sofia-pro';
+    font-weight: 500;
+    border-radius: 22px;
+    border: none;
+    outline: 0 !important;
+}
+
+.degree-store{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+    width: 450px;
+}
+
+.card-title{
+    width: 400px;
+    color: #3c3c3c;
+    font-family: 'sofia-pro';
+    font-size: 18px;
+    font-weight: 600;
+    padding-top: 10px;
+}
+
+.card-subtitle{
+    width: 90%;
+    color: #3c3c3c;
+    font-family: 'sofia-pro';
+    font-size: 14px;
+}
+
+.give-your{
+    color: #193E6C;
+    font-size: 42px;
+    font-weight: 600;
+    text-align: left;
+    margin-top: 50px;
+    font-family: 'sofia-pro';
+    padding-top: 50px;
+
+}
+
+.give-your-subheading{
+    color: #193E6C;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    font-family: 'sofia-pro';
+    width: 400px;
+}
+.card-empowering{
+    border-radius: 5px;
+    box-shadow: lightgrey 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+    width: 300px;
+    margin: 20px 0px 10px 0px;
+}
+.commerce{
+    color: #FF9900;
+    font-family: 'sofia-pro';
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.commerce-sub{
+    color: #FF9900;
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.marketing{
+    color: #00B19C;
+    font-family: 'sofia-pro';
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.marketing-sub{
+    color: #00B19C;
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.business{
+    color: #0074FF;
+    font-family: 'sofia-pro';
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.business-sub{
+    color: #0074FF;
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.probably{
+    color: #3c3c3c;
+    font-size: 28px;
+    font-family: 'sofia-pro';
+    font-weight: 600;
+}
+
+.probably-sub{
+    color: #3c3c3c;
+    font-size: 14px;
+    width: 300px;
+    font-family: 'sofia-pro';
+    font-weight: 500;
+ }
+
+ .get-started{
+    color: #2c2c2c;
+    font-size: 42px;
+    font-weight: 600;
+    text-align: left;
+    font-family: 'sofia-pro';
+    width: 300px;
+}
+
+.how-it-happens{
+    color: #2c2c2c;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    font-family: 'sofia-pro';
+    margin-top: 50px;
+}
+
+
+.ordermgmt-img{
+    max-width: 350px;
+}
+
+.dashboard-img{
+    max-width: 550px;
+}
+
+.marketplace-img{
+    max-width: 350px;
+}
+
+
+.dashboard-feat-img{
+    max-width: 450px;
+}
+
+
+/* footer starts from here */
+.footer {
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer-box{
+    display: flex; 
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.all-rights-reserved {
+    color: #193E6C;
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'sofia-pro';
+}
+
+.product {
+    color: #193E6C;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'sofia-pro';
+}
+
+.footer-label{
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    color: #193E6C;
+    font-weight: 300;
+    width: 200px;
+}
+
+.facebook {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+}
+
+.instagram {
+    width: 20px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+.twitter {
+    width: 20px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+.footer-degree-logo{
+    width: 150px;
+    height: auto;
+    margin-top: 50px;
+}
+
+/* footer ends here */
+
+
+
+
+
+
+
+/* iPads (landscape) ----------- */
+@media only screen and (max-width : 1224px) {
+
+/* header starts */
+.six-degree-logo{
+    width: 150px;
+    height: auto;
+}
+
+/* header ends */
+.enabling {
+    color: #193E6C;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'sofia-pro';
+    width: 250px;
+    text-align: left;
+    padding-top: 90px;
+  }
+
+.card-subtitle{
+    width: 90%;
+    color: #3c3c3c;
+    font-family: 'sofia-pro';
+    font-size: 14px;
+}
+
+
+.card-empowering{
+    border-radius: 5px;
+    box-shadow: lightgrey 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+    width: 300px;
+    margin: 20px 0px 10px 0px;
+}
+.commerce{
+    color: #FF9900;
+    font-family: 'sofia-pro';
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.commerce-sub{
+    color: #FF9900;
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.marketing{
+    color: #00B19C;
+    font-family: 'sofia-pro';
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.marketing-sub{
+    color: #00B19C;
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.business{
+    color: #0074FF;
+    font-family: 'sofia-pro';
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.business-sub{
+    color: #0074FF;
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.probably{
+    color: #3c3c3c;
+    font-size: 24px;
+    font-family: 'sofia-pro';
+    font-weight: 600;
+}
+
+.probably-sub{
+    color: #3c3c3c;
+    font-size: 14px;
+    width: 300px;
+    font-family: 'sofia-pro';
+    font-weight: 500;
+ }
+
+ .get-started{
+    color: #2c2c2c;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: left;
+    font-family: 'sofia-pro';
+    width: 300px;
+}
+
+.how-it-happens{
+    color: #2c2c2c;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    font-family: 'sofia-pro';
+    margin-top: 50px;
+}
+
+
+.ordermgmt-img{
+    width: 200px;
+}
+
+.dashboard-img{
+    width: 300px;
+}
+
+.marketplace-img{
+    width: 200px;
+}
+
+
+.dashboard-feat-img{
+    width: 250px;
+}
+
+}
+
+
+
+
+/* mobile view */
+@media only screen and (max-width: 768px) {
+
+    /* header starts */
+
+.header-new{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 30px 10px 30px 10px;
+}
+
+
+.six-degree-logo{
+    
+    width: 150px;
+    height: auto;
+
+}
+
+/* header ends */
+
+  .rectangle1 {
+    background: url(../assets/wave1_bkgoverlay.svg);
+    background-color: #FFF9EB;
+    
+  }
+  
+  .enabling {
+    color: #193E6C;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'sofia-pro';
+    width: 250px;
+    text-align: left;
+    padding-top: 90px;
+  }
+
+  .hero{
+     height: 300px;
+     padding-top: 25px;     
+  }
+  
+  
+  .register-with-us {    
+      background-color: #0074FF;
+      font-size: 18px;
+      font-weight: 400;
+      border-radius: 30px;
+      border: none;
+      color: #FFFFFF;
+      font-family: 'sofia-pro';
+      width: 240px;
+      height: 54px;
+      outline: 0 !important;
+  }
+  
+  .arrow {
+      width: 100px;
+      z-index: 2;
+  }
+
+  .get-exclusive{
+      font-family: 'sofia-pro';
+      font-size: 12px;
+      margin-top: 10px;
+      font-weight: 400;
+  }
+  
+  .trusted-and-lovely {
+      margin-top: 20px;
+      color: #3C3C3C;
+      font-family: 'sofia-pro';
+      font-size: 18px;
+      margin-top: 60px;
+      margin-bottom: 60px;
+      width: 250px;
+  }
+  
+  
+  .gaurang {  
+      padding-bottom: 60px;
+      max-width: 120px;
+  }
+  
+  .anjul { 
+      padding-bottom: 60px;
+      max-width: 200px;
+  }
+  
+  .kaveri {
+      padding-bottom: 60px;
+      max-width: 120px;
+  }
+  
+  .sidbansal {
+      padding-bottom: 60px;
+      max-width: 200px;
+  }
+  
+  .empowering-img{
+    height: 400px;
+    display: none;
+  }
+
+.rectangle-footer{
+    background: url(../assets/wave_mask.svg);
+    background-color: #FFF9EB;
+}
+
+
+.getting-started {
+    color: #193E6C;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'sofia-pro';
+    padding-top: 50px;
+    width: 250px;
+}
+
+.beauty-logo{
+    width: 100px;
+}
+
+.lux-logo{
+    width: 100px;
+}
+
+.the-time {
+    color: #193E6C;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 300;
+    font-family: 'sofia-pro';
+}
+
+.enroll-now {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 130px;
+    height: 45px;
+    background-color: #0074FF;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'sofia-pro';
+    font-weight: 500;
+    border-radius: 22px;
+    border: none;
+    outline: 0 !important;
+}
+
+.degree-store{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+    width: 250px;
+}
+
+.card-title{
+    width: 230px;
+    color: #3c3c3c;
+    font-family: 'sofia-pro';
+    font-size: 18px;
+    font-weight: 600;
+    padding-top: 10px;
+}
+
+.card-subtitle{
+    width: 90%;
+    color: #3c3c3c;
+    font-family: 'sofia-pro';
+    font-size: 14px;
+}
+
+.give-your{
+    color: #193E6C;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+    margin-top: 50px;
+    font-family: 'sofia-pro';
+    padding-top: 50px;
+    width: 250px;
+
+}
+
+.give-your-subheading{
+    color: #193E6C;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    font-family: 'sofia-pro';
+    width: 250px;
+}
+.card-empowering{
+    border-radius: 5px;
+    box-shadow: lightgrey 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+    width: 250px;
+    margin: 20px 0px 10px 0px;
+}
+.commerce{
+    color: #FF9900;
+    font-family: 'sofia-pro';
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.commerce-sub{
+    color: #FF9900;
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.marketing{
+    color: #00B19C;
+    font-family: 'sofia-pro';
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.marketing-sub{
+    color: #00B19C;
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.business{
+    color: #0074FF;
+    font-family: 'sofia-pro';
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.business-sub{
+    color: #0074FF;
+    font-family: 'sofia-pro';
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.probably{
+    color: #3c3c3c;
+    font-size: 20px;
+    font-family: 'sofia-pro';
+    font-weight: 600;
+}
+
+.probably-sub{
+    color: #3c3c3c;
+    font-size: 14px;
+    width: 250px;
+    font-family: 'sofia-pro';
+    font-weight: 500;
+ }
+
+ .get-started{
+    color: #2c2c2c;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+    font-family: 'sofia-pro';
+    width: 250px;
+}
+
+.how-it-happens{
+    color: #2c2c2c;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    font-family: 'sofia-pro';
+    margin-top: 50px;
+}
+
+
+.ordermgmt-img{
+    width: 400px;
+    display: none;
+}
+
+.dashboard-img{
+    width: 350px;
+}
+
+.marketplace-img{
+    width: 400px;
+    display: none;
+}
+
+
+.dashboard-feat-img{
+    width: 300px;
+}
+
+/* footer starts from here */
+.footer-box{
+    padding: 0px 20px 0px 20px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+/* footer ends from here */
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 581px) {
+    /* header starts from here */
+    .contact-us {
+        font-size: 14px;
+        font-weight: 500;
+        width: 110px;
+        height: 38px;
+        color: #193E6C;
+        background-color: #FFFFFF;
+        border-radius: 30px;
+        margin-right: 15px;
+        font-family: 'sofia-pro';
+        outline: 0 !important;
+        margin-top: 25px;
+    }
+    
+    .shop-with-us {
+        background-color: #193E6C;
+        color: #FFFFFF;
+        font-size: 14px;
+        font-weight: 500;
+        width: 110px;
+        height: 38px;
+        border-radius: 30px;
+        font-family: 'sofia-pro';
+        outline: 0 !important;
+        margin-top: 25px;
+    }
+
+    /* header ends from here */
+}
+
+
+  
+
+  
+
+  

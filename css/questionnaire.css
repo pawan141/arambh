@@ -1,0 +1,249 @@
+.degree-seller-image {
+    margin-top: 70px;
+    width: 150px;
+    height: auto;
+}
+
+.fashion-wings {
+    color: #193E6C;
+    font-size: 40px;
+    margin-left: 67px;
+    margin-top: 35px;
+    margin-right: 90px;
+    font-weight: 600;
+    font-family: 'sofia-pro';
+}
+
+.fashion-wings-subheading {
+    color: #193E6C;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'sofia-pro';
+    text-align: left;
+    margin-left: 70px;
+}
+
+.square {
+    background: url(../assets/MaskGroup.svg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 100vh;
+    background-color: #FFF9EB;
+}
+
+
+  .arrow {
+    margin-top: 72px;
+    margin-left: 75px;
+    color: #193E6C;
+}
+
+
+  .step {
+    color: #193E6C;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'sofia-pro';
+    margin-left: 15px;
+    margin-top: 75px;
+}
+
+.brand-name {
+    color: #193E6C;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'sofia-pro';
+    margin-left: 60px;
+    margin-top: 47px;
+}
+
+.textbox {
+    margin-left: 62px;
+    width: 340px;
+    height: 45px;
+    color: #2A2A2D;
+    font-family: 'sofia-pro';
+    border: none;
+    font-size: 24px;
+    font-weight: 400;
+    background-color: inherit;
+    outline: none;
+}
+
+.social-media-links {
+    color: #193E6C;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-left: 65px;
+    font-family: 'sofia-pro';
+}
+
+.social-platform {
+    color: #193E6C;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 67px;
+    margin-top: 10px;
+}
+
+.paste-link {
+    width: 140px;
+    height: 45px;
+    margin-left: -66px;
+    border: none;
+    background-color: inherit;
+    outline: none;
+    
+}
+
+
+.or-press-enter {
+    
+    color: #193E6C;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'sofia-pro';
+    margin-top: 29px;
+    margin-left: 20px;
+  }
+
+  .next {
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #193E6C;
+    color: #FFFFFF;
+    border: none;
+    width: 140px;
+    height: 48px;
+    border-radius: 30px;
+    margin-left: 58px;
+    margin-top: 22px;
+    margin-bottom: 20px;
+    font-family: 'sofia-pro';
+    outline: 0 !important;
+  }
+
+
+  
+/* mobile view */
+@media only screen and (max-width: 768px) {
+
+    .degree-seller-image {
+        
+        width: 150px;
+        height: auto;
+    }
+
+    .fashion-wings {
+        color: #193E6C;
+        font-size: 40px;
+        margin-left: 0px;
+        margin-top: 35px;
+        margin-right: 0px;
+        font-weight: 600;
+        font-family: 'sofia-pro';
+        text-align: center;
+    }
+
+    .fashion-wings-subheading {
+        color: #193E6C;
+        font-size: 18px;
+        font-weight: 500;
+        font-family: 'sofia-pro';
+        text-align: center;
+        margin-left: 0px;
+    }
+
+    .arrow {
+        margin-top: 72px;
+        margin-left: 100px;
+        color: #193E6C;
+    }
+    
+    .brand-name {
+        color: #193E6C;
+        font-size: 25px;
+        font-weight: 600;
+        font-family: 'sofia-pro';
+        margin-left: 0px;
+        margin-top: 47px;
+        text-align: center;
+    }
+    
+    .textbox {
+        margin-left: 0px;
+        width: 340px;
+        height: 45px;
+        color: #2A2A2D;
+        font-family: 'sofia-pro';
+        border: none;
+        font-size: 14px;
+        font-weight: 400;
+        background-color: inherit;
+        text-align: center;
+        outline: none;
+    }
+    
+    .social-media-links {
+        color: #193E6C;
+        font-size: 22px;
+        font-weight: 600;
+        margin-top: 50px;
+        margin-left: 65px;
+        font-family: 'sofia-pro';
+    }
+    
+    .social-platform {
+        color: #193E6C;
+        font-size: 18px;
+        font-weight: 500;
+        margin-left: 0px;
+        text-align: center;
+        margin-top: 10px;
+    }
+    
+    .paste-link {
+        width: 140px;
+        height: 45px;
+        margin-left: 0px;
+        border: none;
+        background-color: inherit;
+        text-align: left;
+        outline: none;
+        
+    }
+    
+    
+    .or-press-enter {
+        color: #193E6C;
+        text-align: center;
+        display: inline-block;
+        font-size: 20px;
+        font-weight: 500;
+        font-family: 'sofia-pro';
+        margin-top: 29px;
+        margin-left: 0px;
+      }
+    
+      .next {
+        width: 120px;
+        height: 48px;
+        border-radius: 30px;
+        margin-left: 20px;
+        margin-top: 22px;
+        font-family: 'sofia-pro';
+        outline: 0 !important;
+        margin-bottom: 20px;
+        font-size: 16px;
+        font-weight: 500;
+        background-color: #193E6C;
+        color: #FFFFFF;
+        border: none;
+        text-align: center;
+      }
+      
+ 
+}
